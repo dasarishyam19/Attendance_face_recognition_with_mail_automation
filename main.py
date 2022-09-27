@@ -42,7 +42,7 @@ def send_mail():
         Kindly find the below attachment containing the attendance of III CSE-A for today.
 
         Regards
-        Prudhvi V'''
+        Shyam '''
     sender = 'mymail@gmail.com'
     password = '**********'
     receiver = 'tomail@gmail.com'
